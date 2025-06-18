@@ -1,2 +1,4 @@
-# Video-to-Gif-
-Convert Video to Gif
+# Animate it-
+- 2D Character Animation
+- 2D Animation
+  
